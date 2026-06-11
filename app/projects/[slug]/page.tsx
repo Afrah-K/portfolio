@@ -10,7 +10,7 @@ export async function generateStaticParams() {
   }));
 }
 
-export function generateMetadata({ params }) {
+export function generateMetadata({ params }: { params: { slug: string } }) {
   const post = getProjectPosts().find((post) => post.slug === params.slug);
   if (!post) {
     return;
@@ -50,7 +50,7 @@ export function generateMetadata({ params }) {
   };
 }
 
-export default function Project({ params }) {
+export default function Project({ params }: { params: { slug: string } }) {
   const post = getProjectPosts().find((post) => post.slug === params.slug);
 
   if (!post) {
