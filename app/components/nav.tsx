@@ -10,6 +10,9 @@ const navItems = {
   '/academia': {
     name: 'research',
   },
+  '/achievements': {
+    name: 'achievements',
+  },
   '/rejections': {
     name: 'rejections',
   },
