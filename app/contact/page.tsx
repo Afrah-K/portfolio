@@ -6,4 +6,3 @@ export default function ContactPage() {
     </main>
   )
 }
-eat eat 
