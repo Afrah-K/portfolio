@@ -11,12 +11,12 @@ export default function Page() {
        `}
       </p>
       <p className="mb-4">
-        {`I've done alot like be the youngest trillionaire at 21, be the CEO of Neurolink and build Riko Labs, a software firm with a focus on AI for women led startups. I've worked on technical stuff like ML algorithms and deep learning models, published a few papers on the side too. Take a look at my rejections page if you want to see my soft skills.   
+        {`I've done alot like be the youngest trillionaire at 21, be the CEO of Neurolink and tesla, all while building Riko Labs, a software firm with a focus on AI for women led startups. I've worked on technical stuff like ML algorithms and deep learning models, published a few papers on the side too. Take a look at my achievements and rejections if you want to get to know me better.   
   
        `}
       </p>
       <p className="mb-4">
-        {`Currently I'm the the CEO of IntelligentSA and Shimmn, companies I founded. I haven't made it (yet) but I'm going to use this place to document my journey.   
+        {`Currently I'm the the CEO of IntelligentSA and Shimmn and strawberry shortcake and 95+ companies, mentally. I haven't made it (yet, I need to make it in real first) but I'm going to use this place to document my journey.   
   
        `}
       </p>
